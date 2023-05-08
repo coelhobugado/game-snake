@@ -1,22 +1,25 @@
-Jogo da Cobrinha 🐍
+# Jogo da Cobrinha 🐍
 ![image](https://user-images.githubusercontent.com/56519014/236849150-652d7c31-c9c0-43e1-b62b-e3bdbecfcb0b.png)
 
-Este é uma implementação simples do clássico jogo da Cobrinha utilizando a biblioteca Pygame.
+## Este é uma implementação simples do clássico jogo da Cobrinha utilizando a biblioteca Pygame.
 
-Instalação
+# Instalação
 Clone o repositório:
 
 https://github.com/coelhobugado/game-snake.git
 
-Instale as dependências necessárias para executar o jogo:
+# Instale as dependências necessárias para executar o jogo:
 
+```bash
 pip install pygame
+```
 
-Como jogar
+# Como jogar
 Para jogar o Jogo da Cobrinha, siga as instruções abaixo:
 
+```bash
 python snake.py
-
+```
 Use as teclas de seta ou WASD para controlar a direção da cobrinha.
 
 Colete as frutas evitando as paredes e o próprio corpo da cobra.
@@ -27,6 +30,6 @@ A fase reinicia se a cobra colidir com as paredes ou o próprio corpo.
 
 Pressione 'P' para pausar o jogo.
 
-Créditos
+#Créditos
 
-Esse jogo foi desenvolvido 100% com Ia gpt-3/ gpt-4.
+Esse jogo foi desenvolvido com a colaboração da Ia gpt-3/ gpt-4.
