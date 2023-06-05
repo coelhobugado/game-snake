@@ -22,8 +22,9 @@
     <li>🎯 Use as teclas de seta ou WASD para controlar a direção da cobrinha.</li>
     <li>🍎 Colete as frutas evitando as paredes e o próprio corpo da cobra.</li>
     <li>🏁 Uma vez que todas as frutas tenham sido coletadas, o jogo avançará para o próximo nível.</li>
-    <li>❗ A fase reinicia se a cobra colidir com as paredes ou o próprio corpo.</li>
-    <li>⏸️ Pressione 'P' para pausar o jogo.</li>
+<li>❗ Ao morrer:</li>
+<li>🔄 Aperte 'Space' caso queira reiniciar manualmente o jogo.</li>
+<li>🚪 Para sair do jogo, aperte 'Esc'.</li>
 </ul>
 
 <h2>👥 Créditos</h2>
